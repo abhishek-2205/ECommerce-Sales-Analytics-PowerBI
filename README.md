@@ -71,3 +71,13 @@ The Power BI dashboard is available in:
 UCI Online Retail Dataset.
 
 This project is intended for educational and portfolio purposes.
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](executive-overview.png)
+
+### Product Performance
+![Product Performance](product-performance.png)
+
+### Customer & Regional Analysis
+![Customer & Regional Analysis](customer-regional-analysis.png)
